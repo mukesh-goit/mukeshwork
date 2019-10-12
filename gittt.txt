@@ -1,0 +1,8 @@
+git --version
+repository
+commit
+clone
+status
+add .
+then commit to verify the change
+push origin master
